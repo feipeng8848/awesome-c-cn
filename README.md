@@ -169,6 +169,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Eclipse：一个用 Java 写成的 IDE。 [EPL](http://directory.fsf.org/wiki/License:EPLv1.0)。[官网](http://www.eclipse.org/ide/)
 *   Geany：一个很小很快的 IDE。 [GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)及更高版本。[官网](http://www.geany.org/)
 *   KDevelop：KDE IDE. [GNU GPL2.1](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)。[官网](https://www.kdevelop.org/)
+*   Visual Studio Code
 
 <h2 id="environments">环境</h2>
 
@@ -176,7 +177,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   Cygwin：被设计用于在 Windows 下模拟 POSIX 兼容环境。[Various licenses, all free](https://cygwin.com/licensing.html)。[官网](https://cygwin.com/)
 *   MinGW-w64：一个 Windows 下极简的 C 开发环境，支持 64 位。[Various licenses, all free](http://mingw.org/license)。[官网](http://mingw-w64.yaxm.org/doku.php/start)
-
+*   MSYS2
 <h2 id="frameworks">框架</h2>
 
 这一节包括提供数据结构的大型库和你所期待“现代”的标准库。
